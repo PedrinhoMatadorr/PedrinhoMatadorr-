@@ -10,4 +10,4 @@ Meu nome é Pedro e estou aprendendo a programar.
 
 silvatroquatepedrohenrique@gmail.com
 
-![](https://youtu.be/kmcTEZTrsNg?si=pAcRkFZNKoKnztMC)
+![](https://media1.tenor.com/m/kWejy2kDcTwAAAAC/office.gif)
