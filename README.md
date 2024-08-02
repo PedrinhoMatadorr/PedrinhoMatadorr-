@@ -10,4 +10,4 @@ Meu nome é Pedro e estou aprendendo a programar.
 
 silvatroquatepedrohenrique@gmail.com
 
-![]([https://tenor.com/e9NrQJybZQ1.gif](https://media.tenor.com/OitU9a_HM0UAAAAM/super-xandao-flashbang.gif))
+![](https://media.tenor.com/OitU9a_HM0UAAAAM/super-xandao-flashbang.gif)
